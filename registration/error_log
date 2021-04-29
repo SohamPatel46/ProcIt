@@ -1,0 +1,18 @@
+[19-Dec-2020 03:40:17 UTC] PHP Parse error:  syntax error, unexpected '$st1' (T_VARIABLE), expecting ',' or ';' in /home/ictmu6ya/procit.ictmu.in/main/registration/register.php on line 22
+[19-Dec-2020 03:45:42 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/ictmu6ya/procit.ictmu.in/main/registration/register.php on line 27
+[19-Dec-2020 09:36:28 Asia/kolkata] PHP Warning:  mysqli_query(): Empty query in /home/ictmu6ya/procit.ictmu.in/main/registration/register.php on line 26
+[19-Dec-2020 09:36:28 Asia/kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ictmu6ya/procit.ictmu.in/main/registration/register.php on line 28
+[19-Dec-2020 09:37:10 Asia/kolkata] PHP Warning:  mysqli_query(): Empty query in /home/ictmu6ya/procit.ictmu.in/main/registration/register.php on line 26
+[19-Dec-2020 09:37:10 Asia/kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ictmu6ya/procit.ictmu.in/main/registration/register.php on line 28
+[19-Dec-2020 09:37:17 Asia/kolkata] PHP Warning:  mysqli_query(): Empty query in /home/ictmu6ya/procit.ictmu.in/main/registration/register.php on line 26
+[19-Dec-2020 09:37:17 Asia/kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ictmu6ya/procit.ictmu.in/main/registration/register.php on line 28
+[19-Dec-2020 09:39:01 Asia/kolkata] PHP Warning:  mysqli_query(): Empty query in /home/ictmu6ya/procit.ictmu.in/main/registration/register.php on line 26
+[19-Dec-2020 09:39:01 Asia/kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/ictmu6ya/procit.ictmu.in/main/registration/register.php on line 28
+[19-Dec-2020 09:39:10 Asia/kolkata] PHP Warning:  mysqli_query(): Empty query in /home/ictmu6ya/procit.ictmu.in/main/registration/register.php on line 26
+[19-Dec-2020 09:39:10 Asia/kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/ictmu6ya/procit.ictmu.in/main/registration/register.php on line 28
+[19-Dec-2020 09:39:36 Asia/kolkata] PHP Warning:  mysqli_query(): Empty query in /home/ictmu6ya/procit.ictmu.in/main/registration/register.php on line 26
+[19-Dec-2020 09:39:36 Asia/kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/ictmu6ya/procit.ictmu.in/main/registration/register.php on line 28
+[19-Dec-2020 09:40:09 Asia/kolkata] PHP Warning:  mysqli_query(): Empty query in /home/ictmu6ya/procit.ictmu.in/main/registration/register.php on line 26
+[19-Dec-2020 09:40:09 Asia/kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/ictmu6ya/procit.ictmu.in/main/registration/register.php on line 28
+[19-Dec-2020 09:41:03 Asia/kolkata] PHP Warning:  mysqli_query(): Empty query in /home/ictmu6ya/procit.ictmu.in/main/registration/register.php on line 26
+[19-Dec-2020 09:41:03 Asia/kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/ictmu6ya/procit.ictmu.in/main/registration/register.php on line 28
